@@ -11,8 +11,8 @@ Berikut adalah tabel hasil pengujian kelima HTTP method menggunakan layanan publ
 | 5 | DELETE | `/delete` | - | 200 | Server memproses method DELETE untuk menghapus data; mengembalikan respons sukses beserta informasi request. |
 
 ## Screenshot Pengujian Postman
-![GET](./asset/Screenshot (262).png)
-![POST](./asset/Screenshot (263).png)
-![PUT](./asset/Screenshot (264).png)
-![PATCH](./asset/Screenshot (265).png)
-![DELETE](./asset/Screenshot (266).png)
+![GET](./asset/Screenshot%20(262).png)
+![POST](./asset/Screenshot%20(263).png)
+![PUT](./asset/Screenshot%20(264).png)
+![PATCH](./asset/Screenshot%20(265).png)
+![DELETE](./asset/Screenshot%20(266).png)
