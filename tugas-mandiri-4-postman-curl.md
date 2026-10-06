@@ -27,13 +27,13 @@
 Get
 ![GET](./asset/gett.png)
 Post
-![POST](./asset/Postt.png)
+![POST](./asset/postt.png)
 
 **Pengujian Curl**
 Curl -i Get
 ![CURL](./asset/curl-iget.png)
 Curl -i status 404
-![CURL](./asset/curl-i404.png)
+![CURL](./asset/gurl-i404.png)
 
 **Pengujian Curl -i dan -s**
 Curl -i
